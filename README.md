@@ -10,6 +10,6 @@ CREATE TABLE prefectures(
   name VARCHAR(16) NOT NULL,
   name_kana VARCHAR(16) NOT NULL,
   name_short VARCHAR(16) NOT NULL,
-  name_short_kana VARCHAR(16) NOT NULL,
+  name_kana_short VARCHAR(16) NOT NULL,
 );
 ```
