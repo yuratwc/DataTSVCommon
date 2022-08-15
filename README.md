@@ -1,6 +1,6 @@
 # DataTSVCommon
 共通のデータを置いたリポジトリ。
-誰でもMIT LICENSEでつかっていいです。
+誰でも自由につかってください。
 
 ## prefectures.tsv
 
